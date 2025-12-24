@@ -1,0 +1,1 @@
+If you use this dataset, please cite the following paper: Simmachan, T., & Boonkrong, P. (2024). A Comparison of Count and Zero-Inflated Regression Models for Predicting Claim Frequencies in Thai Automobile Insurance. Lobachevskii Journal of Mathematics, 45(12), 6400-6414. https://doi.org/10.1134/S1995080224607604
